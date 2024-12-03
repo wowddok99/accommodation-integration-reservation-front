@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/4f972fea-97ce-48ef-b1d8-2cac00854368) 
 ![image](https://github.com/user-attachments/assets/b5aa028d-4c55-433a-94f6-715c08653583)
 
-이 프로젝트는 경주 지역의 숙박 및 지역 상품을 개인의 연결해주는 웹 서비스입니다. 사용자에게 경주의 다양한 숙소 및 지역재료 정보를 제공합니다.
+이 프로젝트는 경주 지역의 숙박 및 지역 상품을 개인의 연결해주는 웹 서비스입니다. 사용자에게 경주의 다양한 숙소 및 지역 재료 정보를 제공합니다.
 
 ---
 
