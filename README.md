@@ -1,10 +1,11 @@
-# 🚗 경주 맞춤형 관광지 코스 추천 서비스 - Front
+# 🚗 숙박 및 지역 상품 연계 플랫폼 개발 - Front  
 
 [![Contributors](https://img.shields.io/badge/contributors-4-brightgreen)](#-기여자-contributors)  
 
-<img width="1285" alt="스크린샷 2024-11-15 20 55 06" src="https://github.com/user-attachments/assets/54bb6ca3-677c-4873-96bd-4e7763733d83">
+![image](https://github.com/user-attachments/assets/4f972fea-97ce-48ef-b1d8-2cac00854368) 
+![image](https://github.com/user-attachments/assets/b5aa028d-4c55-433a-94f6-715c08653583)
 
-이 프로젝트는 경주 지역의 관광지를 개인의 선호에 맞게 추천해주는 웹 서비스입니다. 사용자에게 경주의 다양한 명소를 기반으로 맞춤형 여행 코스를 제공합니다.  
+이 프로젝트는 경주 지역의 숙박 및 지역 상품을 개인의 연결해주는 웹 서비스의 백엔드 애플리케이션입니다. 데이터베이스 설계, 추천 알고리즘 로직 구현, API 제공을 통해 안정적이고 효율적인 맞춤형 숙박 예약 서비스 환경을 제공합니다.  
 
 ---
 
@@ -19,8 +20,8 @@
 ---
 
 ## 👩‍💻 주요 기능  
-- **맞춤형 관광지 추천**: 사용자의 취향에 따라 관광 코스를 추천합니다.  
-- **관광지 정보 제공**: 주요 관광지의 상세 정보와 리뷰를 제공합니다.  
+- **맞춤형 저녁 메뉴 추천**: 사용자의 취향에 따라 저녁 메뉴를 추천합니다.  
+- **숙박 및 지역재료 예약 정보 제공**: 숙박 및 지역재료 등 다양한 정보를 제공합니다. 
 - **UI/UX 설계**: 직관적인 사용자 인터페이스와 매력적인 디자인으로 사용 편의성을 극대화했습니다.  
 
 ---
@@ -34,7 +35,7 @@
 
 ## 📁 프로젝트 구조  
 ```
-tour-recommend-front
+accommodation-integration-reservation-front
 ├── pages/ # 주요 페이지 컴포넌트 폴더
 │ ├── allCourses/ # 모든 추천 코스 목록 페이지
 │ ├── analysisComplete/ # 관광지 분석 완료 화면
@@ -69,8 +70,8 @@ tour-recommend-front
 ## 📝 설치 및 실행  
 1. 저장소 클론  
    ```bash  
-   git clone https://github.com/mjgwon24/tour-recommend-front.git  
-   cd tour-recommend-front  
+   git clone https://github.com/mjgwon24/accommodation-integration-reservation-front.git
+   cd accommodation-integration-reservation-front
    ```  
 
 2. 의존성 설치  
@@ -87,10 +88,9 @@ tour-recommend-front
 
 ---
 
-## 📬 문의
+## 📬 문의  
 
-프로젝트 관련 문의는 GitHub Issues 또는 아래 연락처로 보내주세요.
+프로젝트 관련 문의는 GitHub Issues 또는 아래 연락처로 보내주세요.  
 
-- **Github:** [mjgwon24](https://github.com/mjgwon24)
-- **이메일:** alswlchlrh8@naver.com
-  
+- **Github:** [wowddok99](https://github.com/wowddok99)  
+- **이메일:** wowddok99@gmail.com
